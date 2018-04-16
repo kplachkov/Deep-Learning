@@ -2,7 +2,7 @@ import tensorflow as tf
 
 from tensorflow.examples.tutorials.mnist import input_data
 
-mnist = input_data.read_data_sets("MNIST/data", one_hot=True)
+mnist = input_data.read_data_sets("MNIST_data", one_hot=True)
 
 # 10 classes, 0-9
 """
@@ -59,7 +59,7 @@ def train_neural_network(x):
     cost = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(logits=prediction, labels=y))
     optimizer = tf.train.AdamOptimizer().minimize(cost)
 
-    hm_epochs = 10  # cycles feed forward + backprop
+    hm_epochs = 10  # Cycles feed forward + backprop
 
     with tf.Session() as sess:
         sess.run(tf.global_variables_initializer())
@@ -69,7 +69,7 @@ def train_neural_network(x):
                 epoch_x, epoch_y = mnist.train.next_batch(batch_size)
                 _, c = sess.run([optimizer, cost], feed_dict={x: epoch_x, y: epoch_y})
                 epoch_loss += c
-            print("Epoch", epoch, "completed out of", hm_epochs, "loss:", epoch_loss)
+            print("Epoch", epoch + 1, "completed out of", hm_epochs, "loss:", epoch_loss)
 
         correct = tf.equal(tf.argmax(prediction, 1), tf.argmax(y, 1))
         accuracy = tf.reduce_mean(tf.cast(correct, "float"))
