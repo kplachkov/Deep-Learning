@@ -27,7 +27,9 @@ superior to human experts.
 * Introduction
    * [TensorFlow Basics](Introduction/TensorFlow%20Basics/TensorFlowBasics.ipynb)
    * [Tensors, Variables and Placeholders](Introduction/Tensors%2C%20Variables%20and%20Placeholders/TensorsVariablesPlaceholders.ipynb)
-   * [Linear Regression](Introduction/Linear%20Regression/LinearRegression.ipynb)
+   * Linear Regression  
+   	   * [Linear Regression Review](Introduction/Linear%20Regression/LinearRegressionReview.ipynb)
+   	   * [Chirps of Crickets](Introduction/Linear%20Regression/ChirpsOfCrickets.ipynb)
    * [Activation Functions](Introduction/Activation%20Functions/ActivationFunctions.ipynb)
 * Convolutional Networks  
    * [Convolutional Neural Network Review](Convolutional%20Networks/Convolutions/ConvolutionalNeuralNetworkReview.ipynb)
