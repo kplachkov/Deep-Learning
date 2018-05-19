@@ -31,7 +31,8 @@ superior to human experts.
 	   * Linear Regression  
 	   	   * [Linear Regression Review](Introduction/Regression/Linear%20Regression/LinearRegressionReview.ipynb)
 	   	   * [Chirps of Crickets](Introduction/Regression/Linear%20Regression/ChirpsOfCrickets.ipynb)
-	   * [Logistic Regression Review](Introduction/Regression/Logistic%20Regression/LogisticRegressionReview.ipynb)
+	   * Logistic Regression  
+		   * [Logistic Regression Review](Introduction/Regression/Logistic%20Regression/LogisticRegressionReview.ipynb)
    * [Activation Functions](Introduction/Activation%20Functions/ActivationFunctions.ipynb)
 * Convolutional Networks  
    * [Convolutional Neural Network Review](Convolutional%20Networks/Convolutions/ConvolutionalNeuralNetworkReview.ipynb)
