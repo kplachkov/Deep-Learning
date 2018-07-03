@@ -34,8 +34,10 @@ superior to human experts.
 	   * Logistic Regression  
 		   * [Logistic Regression Review](Introduction/Regression/Logistic%20Regression/LogisticRegressionReview.ipynb)
    * [Activation Functions](Introduction/Activation%20Functions/ActivationFunctions.ipynb)
-* Convolutional Networks  
-   * [Convolutional Neural Network Review](Convolutional%20Networks/Convolutions/ConvolutionalNeuralNetworkReview.ipynb)
+* Convolutional Neural Networks (CNN)  
+   * Convolution
+       * [Convolutional Neural Network Review](Convolutional%20Networks/Convolutions/ConvolutionalNeuralNetworkReview.ipynb)
+       * [Convolution on Images](Convolutional%20Networks/Convolutions/ConvolutionOnImages.ipynb)
    * [Convolutional Neural Network Application](Convolutional%20Networks/CNN%20Application/CNN-Applications.ipynb)
 
 ![Neural Networks](https://cdn-images-1.medium.com/max/2000/1*gccuMDV8fXjcvz1RSk4kgQ.png "Neural Networks")
