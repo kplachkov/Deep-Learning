@@ -25,7 +25,7 @@ superior to human experts.
 
 ## Table of contents
 * Introduction
-   * [TensorFlow Basics](Introduction/Tensor-Flow-Basics.ipynb)
+   * [TensorFlow Basics](Introduction/TensorFlow-Basics.ipynb)
    * [Tensors, Variables and Placeholders](Introduction/Tensors-Variables-and-Placeholders.ipynb)
    * Regression  
 	   * [Linear Regression Review](Introduction/Regression/Linear-Regression-Review.ipynb)
