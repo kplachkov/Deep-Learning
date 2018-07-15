@@ -25,20 +25,19 @@ superior to human experts.
 
 ## Table of contents
 * Introduction
-   * [TensorFlow Basics](Introduction/TensorFlow%20Basics/TensorFlowBasics.ipynb)
-   * [Tensors, Variables and Placeholders](Introduction/Tensors%2C%20Variables%20and%20Placeholders/TensorsVariablesPlaceholders.ipynb)
+   * [TensorFlow Basics](Introduction/TensorFlow-Basics.ipynb)
+   * [Tensors, Variables and Placeholders](Introduction/Tensors-Variables-and-Placeholders.ipynb)
    * Regression  
-	   * Linear Regression  
-	   	   * [Linear Regression Review](Introduction/Regression/Linear%20Regression/LinearRegressionReview.ipynb)
-	   	   * [Chirps of Crickets](Introduction/Regression/Linear%20Regression/ChirpsOfCrickets.ipynb)
-	   * Logistic Regression  
-		   * [Logistic Regression Review](Introduction/Regression/Logistic%20Regression/LogisticRegressionReview.ipynb)
-   * [Activation Functions](Introduction/Activation%20Functions/ActivationFunctions.ipynb)
+	   * [Linear Regression Review](Introduction/Regression/Linear-Regression-Review.ipynb)
+	   * [Chirps of Crickets](Introduction/Regression/Chirps-of-Crickets.ipynb)
+	   * [Logistic Regression Review](Introduction/Regression/Logistic-Regression-Review.ipynb)
+   * [Activation Functions](Introduction/Activation-Functions.ipynb)
 * Convolutional Neural Networks (CNN)  
-   * Convolution
-       * [Convolutional Neural Network Review](Convolutional%20Networks/Convolutions/ConvolutionalNeuralNetworkReview.ipynb)
-       * [Convolution on Images](Convolutional%20Networks/Convolutions/ConvolutionOnImages.ipynb)
-   * [Convolutional Neural Network Application](Convolutional%20Networks/CNN%20Application/CNN-Applications.ipynb)
+   * [Convolutional Neural Network Review](Convolutional%20Neural%20Networks/Convolutional-Neural-Network-Review.ipynb)
+   * [Convolution on Images](Convolutional%20Neural%20Networks/Convolution-on-Images.ipynb)
+   * [Convolutional Neural Network Application](Convolutional%20Neural%20Networks/CNN-Applications.ipynb)
+* Recurrent Neural Networks (RNN)  
+   * [Long Short-Term Memory (LSTM) Review](Recurrent%20Neural%20Networks/LSTM-Review.ipynb)
 
 ![Neural Networks](https://cdn-images-1.medium.com/max/2000/1*gccuMDV8fXjcvz1RSk4kgQ.png "Neural Networks")
 
