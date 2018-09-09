@@ -38,6 +38,7 @@ superior to human experts.
    * [Convolutional Neural Network Application](Convolutional%20Neural%20Networks/CNN-Applications.ipynb)
 * Recurrent Neural Networks (RNN)  
    * [Long Short-Term Memory (LSTM) Review](Recurrent%20Neural%20Networks/LSTM-Review.ipynb)
+   * [Sequence Classification with LSTM](Recurrent%20Neural%20Networks/LSTM-MNIST-Database.ipynb)
 
 ![Neural Networks](https://cdn-images-1.medium.com/max/2000/1*gccuMDV8fXjcvz1RSk4kgQ.png "Neural Networks")
 
