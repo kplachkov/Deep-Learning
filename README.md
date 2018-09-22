@@ -39,6 +39,7 @@ superior to human experts.
 * Recurrent Neural Networks (RNN)  
    * [Long Short-Term Memory (LSTM) Review](Recurrent%20Neural%20Networks/LSTM-Review.ipynb)
    * [Sequence Classification with LSTM](Recurrent%20Neural%20Networks/LSTM-MNIST-Database.ipynb)
+   * [Language Modelling (LSTM)](Recurrent%20Neural%20Networks/LSTM-Language-Modelling.ipynb)
 
 ![Neural Networks](https://cdn-images-1.medium.com/max/2000/1*gccuMDV8fXjcvz1RSk4kgQ.png "Neural Networks")
 
