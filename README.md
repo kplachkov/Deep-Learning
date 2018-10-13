@@ -42,7 +42,8 @@ superior to human experts.
    * [Language Modelling (LSTM)](Recurrent%20Neural%20Networks/LSTM-Language-Modelling.ipynb)
    * [Character Modelling (LSTM)](Recurrent%20Neural%20Networks/LSTM-Character-Modelling.ipynb)
 * Restricted Boltzmann Machines (RBM)  
-   * [RBM Review](Restricted%20Boltzmann%20Machines/RBM-MNIST.ipynb)
+   * [Restricted Boltzmann Machine Review](Restricted%20Boltzmann%20Machines/RBM-MNIST.ipynb)
+   * [Recommendation System](Restricted%20Boltzmann%20Machines/RBM-Recommendation-System.ipynb)
 
 ![Neural Networks](https://cdn-images-1.medium.com/max/2000/1*gccuMDV8fXjcvz1RSk4kgQ.png "Neural Networks")
 
