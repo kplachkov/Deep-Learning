@@ -32,6 +32,7 @@ superior to human experts.
 	   * [Chirps of Crickets](Introduction/Regression/Chirps-of-Crickets.ipynb)
 	   * [Logistic Regression Review](Introduction/Regression/Logistic-Regression-Review.ipynb)
    * [Activation Functions](Introduction/Activation-Functions.ipynb)
+   * [Model a Neural Network](Introduction/Model%20Neural%20Network/Neural-Network-MNIST.py)
 * Convolutional Neural Networks (CNN)  
    * [Convolutional Neural Network Review](Convolutional%20Neural%20Networks/Convolutional-Neural-Network-Review.ipynb)
    * [Convolution on Images](Convolutional%20Neural%20Networks/Convolution-on-Images.ipynb)

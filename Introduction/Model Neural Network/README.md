@@ -1,7 +1,9 @@
 # MNIST
 MNIST is a simple computer vision dataset. It consists of images of handwritten digits.
 It also includes labels for each image, telling us which digit it is. For example, the labels for the above images are 5, 0, 4, and 1.
-In this tutorial, we're going to train a model to look at images and predict what digits they are. Our goal isn't to train a really elaborate model that achieves state-of-the-art performance -- although we'll give you code to do that later! -- but rather to dip a toe into using TensorFlow. As such, we're going to start with a very simple model, called a Softmax Regression.
+We're going to train a model to look at images and predict what digits they are. Our goal isn't to train a really elaborate
+model that achieves state-of-the-art performance - but rather to dip a toe into using TensorFlow. As such, we're going to start with a very simple model, called a Softmax Regression.
+
 # Results:
 Epoch 1 completed out of 10 loss: 1715080.33694  
 Epoch 2 completed out of 10 loss: 382478.558369  
