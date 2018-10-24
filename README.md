@@ -45,6 +45,8 @@ superior to human experts.
 * Restricted Boltzmann Machines (RBM)  
    * [Restricted Boltzmann Machine Review](Restricted%20Boltzmann%20Machines/RBM-MNIST.ipynb)
    * [Recommendation System](Restricted%20Boltzmann%20Machines/RBM-Recommendation-System.ipynb)
+* Autoencoders  
+   * [Autoencoders Review](Autoencoders/Autoencoders-Review.ipynb)
 
 ![Neural Networks](https://cdn-images-1.medium.com/max/2000/1*gccuMDV8fXjcvz1RSk4kgQ.png "Neural Networks")
 
